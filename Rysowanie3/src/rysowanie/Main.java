@@ -18,7 +18,6 @@ public class Main {
     
     public static void main(String args []){
     	
-    	System.out.println("Witamy!!!");
         JFrame okno = new JFrame("Program do rysowania");
         Surface Tlo = new Surface();
         okno.setBounds(450, 100, 1000, 800);
